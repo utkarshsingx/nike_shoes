@@ -25,7 +25,7 @@ tl.from("#left", {
 
   .to(".a", {
     delay: -2,
-    stagger: .2,
+    stagger: 0.2,
     opacity: 1,
     y: 0,
     ease: Expo.easeInOut,
