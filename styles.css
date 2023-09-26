@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "inter";
+  font-family: "poppins";
 }
 
 html,
@@ -49,7 +49,7 @@ body {
 }
 
 #text p {
-  width: 90%;
+  width: 85%;
   line-height: 1.5;
   margin-bottom: 30px;
 }
@@ -100,12 +100,13 @@ body {
 #right {
   width: 65%;
   height: 100%;
+  background-color: #f3f3f3;
 }
 
 #right>img {
   width: 30%;
   position: absolute;
-  top: 55%;
+  top: 40%;
   left: 32%;
   transform: translate(-50%, -50%) rotate(-30deg);
 }
