@@ -21,8 +21,8 @@ body {
   position: relative;
   width: 35%;
   height: 100%;
-  color: #323234;
-  background-color: #e3dbcc;
+  color: #323234e2;
+  background-color: #e3dbcce4;
 }
 
 #left >img {
@@ -59,15 +59,15 @@ body {
 }
 
 #text h1 {
-  font-size: 40px;
+  font-size: 38px;
   line-height: 1.2;
 }
 
 #text button {
   padding: 8px 16px;
-  background-color: #fff;
+  background-color: #ffffffe8;
   border-color: #e3dbcc;
-  color: #323234;
+  color: #323234e5;
   border-radius: 4px;
 }
 
@@ -82,7 +82,7 @@ body {
   width: 90%;
   background-color: #fff;
   padding: 20px;
-  color: #323234;
+  color: #323234e8;
 }
 
 #btm h3 {
