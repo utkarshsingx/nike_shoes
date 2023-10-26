@@ -9,6 +9,7 @@ The Nike Landing Page project is a web development endeavor leveraging HTML, CSS
 5. Ensuring responsiveness for various devices.
 6. Optimizing performance for fast loading.
 7. Potential addition of interactive JavaScript elements.
+8. Creating some dynamic and advanced models of shoes.
 
 # Gif 👾
 https://github.com/utkarshsingx/nike_shoes/assets/92610758/60475bf9-ab31-40c8-9907-f446a34e232b
